@@ -1,6 +1,6 @@
 # :reduxsagait_card: reduxsagaMobile
 * [Demo App download link](https://betafamily.com/app/22644/item/39953/5b67e9b7)
-reduxsagax - Decentralized Lending
+reduxsagax - demo
 <div>
   <img src='https://github.com/reduxsagax/reduxsagaMobile/blob/master/Docs/appImg1.png' />
   <img src='https://github.com/reduxsagax/reduxsagaMobile/blob/master/Docs/appImg2.png' />
